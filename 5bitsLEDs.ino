@@ -1,7 +1,7 @@
-
-
-
-
+/*
+Idea from Youtube (Paul McWhorter)
+Code written by Mahmoud Embaby.
+*/
 
 int bit1 = 3; // 1 off - 1 on
 int bit2 = 4; // 2 off - 2 on
